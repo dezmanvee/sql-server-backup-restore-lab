@@ -1,6 +1,6 @@
 # SQL Server Backup & Restore Validation Lab
 
-A reproducible SQL Server 2022 lab that demonstrates a complete recovery chain:
+A reproducible SQL Server lab that demonstrates a complete recovery chain:
 
 ```text
 Full backup → Differential backup → Transaction log backup → Restore to a new database → Validation
